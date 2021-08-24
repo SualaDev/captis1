@@ -80,7 +80,7 @@
 <style scoped>
 .side-bar{
   width: 282px;
-  height: 1534px;
+  height: 800px;
   background-color: #fff;
   position: fixed;
   border-right: 1px solid #E6E8ED;

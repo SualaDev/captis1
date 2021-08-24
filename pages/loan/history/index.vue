@@ -1,6 +1,5 @@
 <template>
   <div class="container">
-    <Table/>
     <table>
       <div class="table-top">
         <p class="table-top-text">Loan History</p>
